@@ -1173,7 +1173,7 @@ a:hover, a:focus, a:active {
    ============================================================== */
 .site-header {
   padding: 0;
-  display: inline-block;
+  display: block;
   width: 100%;
   position: relative;
   z-index: 100;
