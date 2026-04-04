@@ -467,7 +467,7 @@ a:hover, a:focus, a:active {
 }
 
 .top-navigation {
-  display: inline-block;
+  display: block;
   width: 100%;
   position: relative;
   z-index: 10;
@@ -670,7 +670,7 @@ a:hover, a:focus, a:active {
   display: none;
   width: 100%;
   padding: 15px;
-  background: #5a3fd6;
+  background: #ed1c24;
   transition: .2s ease;
   text-align: center;
 }
@@ -1177,7 +1177,6 @@ a:hover, a:focus, a:active {
   width: 100%;
   position: relative;
   z-index: 100;
-  background: #f2f2f2;
 }
 
 .site-identity {
