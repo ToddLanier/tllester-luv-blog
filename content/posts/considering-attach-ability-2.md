@@ -30,7 +30,7 @@ Jonathan, Pony's is a very special house. In 2015/16 I began researching types o
   
 In 2019, Pony returned to visit the house (along with Brad Walrond), and participated in the Ball: Vera Verão put on by Coletivo Amem and House of Zion-Brasil. I think perhaps Brad will perform the (not same:) 1986 piece on Feb. 9 that he did at this ball.   
   
-In fact, Jonathan, I think I introduced you to the Coletivo Amem / House of Zion-Brasil guys on e-mail once. It was around the time that I first had this idea...the one that is coming. But also Pony was a part of the [launch of my project Luv 'til it Hurts on HIV and stigma](https://luvhurts.co/encounters/a-discussion-to-be-accountable-to/) (back in October 2018), as was Brad. This collaboration led to their visit in January 2019.
+In fact, Jonathan, I think I introduced you to the Coletivo Amem / House of Zion-Brasil guys on e-mail once. It was around the time that I first had this idea...the one that is coming. But also Pony was a part of the [launch of my project Luv 'til it Hurts on HIV and stigma](/a-discussion-to-be-accountable-to/) (back in October 2018), as was Brad. This collaboration led to their visit in January 2019.
 
 https://vimeo.com/341096534
 

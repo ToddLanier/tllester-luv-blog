@@ -11,7 +11,7 @@ title: "A preamble for shifting gears"
 type: "post"
 ---
 
-_\[\*After some meetings in NYC in February (2020), the LUV team set about a visioning process that should yield the project's next phase--with a new level of clarity--by the middle of the year. We asked Brad Walrond to help us come up with a new introductory text (something like an artist statement), and we are gonna hold this back until we launch the next LUV. However, in our recent consensus-building process, [Brad Walrond](https://luvhurts.co/texts/a-pre-covid-19-estimation-of-luv/), [Paula Nishijima](https://luvhurts.co/texts/i-wanted-to-elaborate-more-on-the-concept-of-transcendence/) and I all wrote (from where we were stood at that moment) about LUV. Here's mine. xo Todd\]_
+_\[\*After some meetings in NYC in February (2020), the LUV team set about a visioning process that should yield the project's next phase--with a new level of clarity--by the middle of the year. We asked Brad Walrond to help us come up with a new introductory text (something like an artist statement), and we are gonna hold this back until we launch the next LUV. However, in our recent consensus-building process, [Brad Walrond](/a-pre-covid-19-estimation-of-luv/), [Paula Nishijima](/i-wanted-to-elaborate-more-on-the-concept-of-transcendence/) and I all wrote (from where we were stood at that moment) about LUV. Here's mine. xo Todd\]_
 
 ‘The institutions of our life are what hurt us’ says \_\_ (still looking for reference:). This aligns with Michel de Certeau’s dichotomy of tactics and strategies, in which organizations of all sizes create broad sweeping strategies that individual people must create tactics in order to deal with at the single human level. 
 

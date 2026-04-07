@@ -12,7 +12,7 @@ title: "More instructions for afterlife (next-LUV) designer"
 type: "post"
 ---
 
-_\[\*In February and back before Covid19 suspended travel (and life as we knew it) a group of LUV peeps met in NYC to work on the 'next-LUV' or an afterlife for Luv 'til it Hurts, a project that I originally charted for only two years. Those two years are almost up. We received some [instruction/planning questions](https://luvhurts.co/texts/instructions-from-next-luv-designer-for-nyc-mtg/) from teammate [Jakub Szczęsny](http://www.szcz.com.pl/) at that time, and again now as a new group plan takes shape. xo Todd\]_
+_\[\*In February and back before Covid19 suspended travel (and life as we knew it) a group of LUV peeps met in NYC to work on the 'next-LUV' or an afterlife for Luv 'til it Hurts, a project that I originally charted for only two years. Those two years are almost up. We received some [instruction/planning questions](/instructions-from-next-luv-designer-for-nyc-mtg/) from teammate [Jakub Szczęsny](http://www.szcz.com.pl/) at that time, and again now as a new group plan takes shape. xo Todd\]_
 
 1\. which artists in the beginning?  
 2\. how many of their works in the beginning?  

@@ -15,4 +15,4 @@ Deza's work seeks to integrate disabled people into an aesthetic universe and to
 
 [CHAOS TEASER EN](https://vimeo.com/337519481) from [E&H LAB](https://vimeo.com/ehlab) on [Vimeo](https://vimeo.com).
 
-[CHAOS Press Kit](https://luvhurts.co/wp-content/uploads/2019/11/EHLAB_CHAOS_DP_WEB_ENG.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/11/EHLAB_CHAOS_DP_WEB_ENG.pdf)
+[CHAOS Press Kit](https://luvhurts.co/wp-content/uploads/2019/11/EHLAB_CHAOS_DP_WEB_ENG.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/11/EHLAB_CHAOS_DP_WEB_ENG.pdf) <!-- TODO: missing local asset EHLAB_CHAOS_DP_WEB_ENG.pdf -->

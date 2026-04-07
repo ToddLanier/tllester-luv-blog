@@ -17,7 +17,7 @@ _\[\*A longer EN language interview is available below for download; Todd Lanier
   
 TLL: We met first in Barcelona at the [14th International AIDS Conference](https://en.wikipedia.org/wiki/XIV_International_AIDS_Conference,_2002) in 2002. I don't remember too much about the trip, except that I was presenting a poster with a colleague on community sensitization work on HIV/AIDS we'd done together in the East Province of Cameroon as US Peace Corps volunteers. Again, a very long time ago.  
   
-I recently [wrote about my first HIV work](https://luvhurts.co/texts/remembering-my-first-aids-work/) on the LUV site, and I guess it had to do with being 'plopped' down in a location for which it was an urgency. I reacted to my surroundings, not so different than how I have reacted to urban issues here in São Paulo. For me it is about responding to what is around me, and relates to my personal notion of what you do when you live in a place. The only difference I can think of is that I now call myself an artist. I began this HIV-related work 20 years ago, and before I myself contracted HIV.   
+I recently [wrote about my first HIV work](/remembering-my-first-aids-work/) on the LUV site, and I guess it had to do with being 'plopped' down in a location for which it was an urgency. I reacted to my surroundings, not so different than how I have reacted to urban issues here in São Paulo. For me it is about responding to what is around me, and relates to my personal notion of what you do when you live in a place. The only difference I can think of is that I now call myself an artist. I began this HIV-related work 20 years ago, and before I myself contracted HIV.   
   
 Since you've been doing this work for just as long, I wanted to first say thank you for your dedication, and ask you to explain how you started and what moved you to action in what you term 'artHIVism' (I noticed in your e-mail signature:)  
 
@@ -74,9 +74,9 @@ https://www.youtube.com/watch?v=GTb85B82Xpc
 </figure>
 
 [  
-Q & A](https://luvhurts.co/wp-content/uploads/2020/03/ab_qa.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/03/ab_qa.pdf)
+Q & A](https://luvhurts.co/wp-content/uploads/2020/03/ab_qa.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/03/ab_qa.pdf) <!-- TODO: missing local asset ab_qa.pdf -->
 
-[Creative Workshop](https://luvhurts.co/wp-content/uploads/2020/03/fiat-lux.pptx)[Download](https://luvhurts.co/wp-content/uploads/2020/03/fiat-lux.pptx)
+[Creative Workshop](https://luvhurts.co/wp-content/uploads/2020/03/fiat-lux.pptx)[Download](https://luvhurts.co/wp-content/uploads/2020/03/fiat-lux.pptx) <!-- TODO: missing local asset fiat-lux.pptx -->
 
   
-See more here: [ArtHIVism](https://luvhurts.co/arthivism/)
+See more here: [ArtHIVism](/arthivism/)

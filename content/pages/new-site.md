@@ -7,10 +7,10 @@ title: "**New Site**"
 type: "page"
 ---
 
-[www.luvtilithurts.co](http://www.luvtilithurts.co/)
+[www.luvtilithurts.co](/)<!-- TODO: verify link - was luvtilithurts.co -->
 
   
-The working group that comprises Luv ’til it Hurts–Brad Walrond (NYC), Paula Nishijima (Amsterdam) & Todd Lanier Lester (São Paulo )–is making a 15-20 artist group show entitled [<<EXQUISITE CORPSE>>](https://luvhurts.co/mixed-media/exquisite-corpse/) on HIV and related stigmas, one that evolves as it travels to each new location. The [video letter](https://vimeo.com/441450039) is something we put together describing our collective working style, as is our [artist statement](https://b4778ebf-e95c-4f17-8002-a1f57531f06c.filesusr.com/ugd/36a58e_aecb7c544dda45ddb24308bccd3dc32e.pdf). Additionally, artist/member Paula Nishijima has designed and curated the next version of our website to reflect the present state of our process. This [\*\*new site\*\*](http://www.luvtilithurts.co/) goes live by the end of September 2020. En bref:
+The working group that comprises Luv ’til it Hurts–Brad Walrond (NYC), Paula Nishijima (Amsterdam) & Todd Lanier Lester (São Paulo )–is making a 15-20 artist group show entitled [<<EXQUISITE CORPSE>>](/exquisite-corpse/) on HIV and related stigmas, one that evolves as it travels to each new location. The [video letter](https://vimeo.com/441450039) is something we put together describing our collective working style, as is our [artist statement](https://b4778ebf-e95c-4f17-8002-a1f57531f06c.filesusr.com/ugd/36a58e_aecb7c544dda45ddb24308bccd3dc32e.pdf). Additionally, artist/member Paula Nishijima has designed and curated the next version of our website to reflect the present state of our process. This [\*\*new site\*\*](/)<!-- TODO: verify link - was luvtilithurts.co --> goes live by the end of September 2020. En bref:
 
 _Luv ‘til it Hurts is a working group. Its outputs are collectively authored._ 
 

@@ -15,11 +15,11 @@ I vomited tonight ... earlier today.
   
 I had taken an ecstasy pill. I may have used a couple other things as well. I'm a Taurus 'control freak', I'm told. So, while the idea of drugging up for going out may seem a bit careless, I also monitor my anti-depression medication, and not so long ago decided with my doctor to change my HIV meds.   
   
-As I said in '[we use drugs](https://luvhurts.co/texts/drugs/)', or was it '[drugs](https://luvhurts.co/texts/drugs/)' .. but that yes, we do [use drugs](https://luvhurts.co/texts/drugs/). Or so it seems.   
+As I said in '[we use drugs](/drugs/)', or was it '[drugs](/drugs/)' .. but that yes, we do [use drugs](/drugs/). Or so it seems.   
   
 I once read that X was made for Japanese fighter pilots, maybe those who bombed Pearl Harbor. And, indeed tonight at Dando there were 1001+ Japanese fighter pilots. George and I were there. He'd been out before with a friend F at Zig Duplex. It was so nice to see them. I'd stayed home to rest and write. It was rather productive so I decided at about 4am to go meet the guys. I like F. but he is not so sure if I like how much he likes George. It's ok. I'm fine with it. I actually think you are a great influence on him. So there.   
   
-_\[\*Dando is where we [distributed the cloth hearts](https://luvhurts.co/texts/puppy-luv-cloth-hearts/) with our pup, W.\]_  
+_\[\*Dando is where we [distributed the cloth hearts](/puppy-luv-cloth-hearts/) with our pup, W.\]_  
   
 There were a lot of people at the last Dando of the year, and my luv affair with Teatro Mars only grows each time I dance there. So, I found George and we drank lots of water. But I was still feeling a bit queasy even after sitting together outside in the smoking area.   
   

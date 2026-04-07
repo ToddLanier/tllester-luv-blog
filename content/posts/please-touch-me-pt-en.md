@@ -12,7 +12,7 @@ title: "Please, touch me (PT/EN)"
 type: "post"
 ---
 
-_\[\*Alberto Pereira Jr. first made 'Please, touch me' for a 2019 workshop in São Paulo. His production notes are the third in a series that also includes a project abstract [#movingtarget](https://luvhurts.co/texts/movingtarget/) and creative writing, [ELE](https://luvhurts.co/texts/ele/). xo, Todd\]_
+_\[\*Alberto Pereira Jr. first made 'Please, touch me' for a 2019 workshop in São Paulo. His production notes are the third in a series that also includes a project abstract [#movingtarget](/movingtarget/) and creative writing, [ELE](/ele/). xo, Todd\]_
 
 PT
 

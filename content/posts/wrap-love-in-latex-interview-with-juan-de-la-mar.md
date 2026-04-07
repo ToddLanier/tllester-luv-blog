@@ -16,7 +16,7 @@ TL: Hi Juan,
 
 If memory serves this is a line in your film, De Gris a POSITHIVO ... 'wrap love in latex?'. I think it is when you are walking in the streets of Bogotá (all wrapped in plastic wrap).
 
-Juan, first, I really appreciate your film, and furthermore it was great to have it privately screened at the [event](https://www.facebook.com/events/675101239678987/) at [El Parche](http://www.elparche.org/) on October 30th in Bogotá. I also really enjoyed being a part of the [Laboratorio Luciérnagas](https://luvhurts.co/coalition/luciernagas/) performance and intervention at the Botanical Gardens on October 25th. The whole trip was amazing for me, and reminded me why I'm making the Luv 'til it Hurts project. 
+Juan, first, I really appreciate your film, and furthermore it was great to have it privately screened at the [event](https://www.facebook.com/events/675101239678987/) at [El Parche](http://www.elparche.org/) on October 30th in Bogotá. I also really enjoyed being a part of the [Laboratorio Luciérnagas](/luciernagas/) performance and intervention at the Botanical Gardens on October 25th. The whole trip was amazing for me, and reminded me why I'm making the Luv 'til it Hurts project. 
 
 I understand (I think) the line in your film 'wrap your love in latex' as a question of sorts. I understand the sentiment to be something like this:
 
@@ -71,7 +71,7 @@ Facebook: [https://www.facebook.com/DeGrisAPOSITHIVO/](https://www.facebook.com/
 
 Instagram: [https://www.instagram.com/degrisaposithivo/](https://www.instagram.com/degrisaposithivo/)
 
-Read also: [Relatory Bogotá](https://luvhurts.co/texts/relatory-bogota/)
+Read also: [Relatory Bogotá](/relatory-bogota/)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -79,7 +79,7 @@ TL: Hi Juan,
 
 If memory serves this is a line in your film, De Gris a POSITHIVO ... 'wrap love in latex?'. I think it is when you are walking in the streets of Bogotá (all wrapped in plastic wrap).
 
-Juan, first, I really appreciate your film, and furthermore it was great to have it privately screened at the [event](https://www.facebook.com/events/675101239678987/) at [El Parche](http://www.elparche.org/) on October 30th in Bogotá. I also really enjoyed being a part of the [Laboratorio Luciérnagas](https://luvhurts.co/coalition/luciernagas/) performance and intervention at the Botanical Gardens on October 25th. The whole trip was amazing for me, and reminded me why I'm making the Luv 'til it Hurts project. 
+Juan, first, I really appreciate your film, and furthermore it was great to have it privately screened at the [event](https://www.facebook.com/events/675101239678987/) at [El Parche](http://www.elparche.org/) on October 30th in Bogotá. I also really enjoyed being a part of the [Laboratorio Luciérnagas](/luciernagas/) performance and intervention at the Botanical Gardens on October 25th. The whole trip was amazing for me, and reminded me why I'm making the Luv 'til it Hurts project. 
 
 I understand (I think) the line in your film 'wrap your love in latex' as a question of sorts. I understand the sentiment to be something like this:
 
@@ -132,4 +132,4 @@ Facebook: [https://www.facebook.com/DeGrisAPOSITHIVO/](https://www.facebook.com/
 
 Instagram: [https://www.instagram.com/degrisaposithivo/](https://www.instagram.com/degrisaposithivo/)
 
-Read also: [Relatory Bogotá](https://luvhurts.co/texts/relatory-bogota/)
+Read also: [Relatory Bogotá](/relatory-bogota/)

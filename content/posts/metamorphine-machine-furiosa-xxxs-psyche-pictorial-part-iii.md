@@ -29,4 +29,4 @@ type: "post"
 
 ![](images/Screen-Shot-2019-11-11-at-17.18.09.png)
 
-For all responses, see: [MetaMorphineMachineFuriosaXXX](https://luvhurts.co/coalition/metamorphinemachinefuriosaxxx/)
+For all responses, see: [MetaMorphineMachineFuriosaXXX](/metamorphinemachinefuriosaxxx/)

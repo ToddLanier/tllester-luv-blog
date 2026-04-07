@@ -20,9 +20,9 @@ How can artHivism collaborate to promote prevention, adherence to ARVS, break st
 Developing this multi-sector, multimedia tool on a digital and online platform using the arts is our challenge to impact new generations.  
   
 
-[Arthivismo PT](https://luvhurts.co/wp-content/uploads/2020/12/arthivismo.docx)[Download](https://luvhurts.co/wp-content/uploads/2020/12/arthivismo.docx)
+[Arthivismo PT](https://luvhurts.co/wp-content/uploads/2020/12/arthivismo.docx)[Download](https://luvhurts.co/wp-content/uploads/2020/12/arthivismo.docx) <!-- TODO: missing local asset arthivismo.docx -->
 
-[Arthivism EN](https://luvhurts.co/wp-content/uploads/2020/12/arthivism.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/12/arthivism.pdf)
+[Arthivism EN](https://luvhurts.co/wp-content/uploads/2020/12/arthivism.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/12/arthivism.pdf) <!-- TODO: missing local asset arthivism.pdf -->
 
-  
-See more here: [artHIVism, Condom Art & a lifetime of caring](https://luvhurts.co/encounters/arthivism-condom-art-a-lifetime-of-caring/)
+
+See more here: [artHIVism, Condom Art & a lifetime of caring](/arthivism-condom-art-a-lifetime-of-caring/)

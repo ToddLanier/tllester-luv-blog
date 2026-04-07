@@ -12,7 +12,7 @@ title: "ART, POLICY, AND WELLNESS (1 of 2)"
 type: "post"
 ---
 
-_\[\*A few years back, I created a meeting concept called Artist Roundtable (or A.RT) … I want to resuscitate this particular discussion on health and wellness in order to share [a unique policy paper](https://luvhurts.co/encounters/a-re-imagination-of-policy-and-health-2-of-2/) that came thereafter as byproduct. This article was originally_ [_published by the World Policy Journal_](http://worldpolicy.org/2015/06/09/art-policy-and-wellness/) on June 9th, 2015_. xo Todd\]_
+_\[\*A few years back, I created a meeting concept called Artist Roundtable (or A.RT) … I want to resuscitate this particular discussion on health and wellness in order to share [a unique policy paper](/a-re-imagination-of-policy-and-health-2-of-2/) that came thereafter as byproduct. This article was originally_ [_published by the World Policy Journal_](http://worldpolicy.org/2015/06/09/art-policy-and-wellness/) on June 9th, 2015_. xo Todd\]_
 
 _What would a policy that incorporates our ideas of medicine look like?_
 

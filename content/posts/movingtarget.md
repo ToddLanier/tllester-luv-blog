@@ -74,6 +74,6 @@ Images: Flavio Melgarejo @ffmelgarejo
   
 See also, by Alberto Pereira Jr:
 
-[#](https://luvhurts.co/texts/movingtarget/)[ELE](https://luvhurts.co/texts/ele/)
+[#](/movingtarget/)[ELE](/ele/)
 
-[Please, touch me (PT/EN)](https://luvhurts.co/texts/please-touch-me-pt-en/)
+[Please, touch me (PT/EN)](/please-touch-me-pt-en/)

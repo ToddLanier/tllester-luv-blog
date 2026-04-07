@@ -11,4 +11,4 @@ Love Positive Women is a series that began during the 2019 and 2020 Love Positi
 
 See: [Love Positive Women](http://jessicawhitbread.com/project/love-positive-women/)
 
-Click [here](https://luvhurts.co/lovewomen/) for Love Positive Women 2019 & 2020 content.
+Click [here](/lovewomen/) for Love Positive Women 2019 & 2020 content.

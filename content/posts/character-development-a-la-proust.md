@@ -13,7 +13,7 @@ title: "Character Development à la Proust"
 type: "post"
 ---
 
-_\[\*I totally misunderstood what you wanted me to do with the 'Proust Questionnaire' and just answered the original. I get it now … you're gonna ask me these questions in a new fresh way. Is that it? Go ahead, and we'll link my new fresh answers [here](https://luvhurts.co/coalition/metamorphinemachinefuriosaxxx/)!\]_
+_\[\*I totally misunderstood what you wanted me to do with the 'Proust Questionnaire' and just answered the original. I get it now … you're gonna ask me these questions in a new fresh way. Is that it? Go ahead, and we'll link my new fresh answers [here](/metamorphinemachinefuriosaxxx/)!\]_
 
 ![](images/1kfI6eKr7UoDwMBWrNLHpAg-1024x545.jpeg)
 

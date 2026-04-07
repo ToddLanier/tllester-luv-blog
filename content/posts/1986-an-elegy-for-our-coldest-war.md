@@ -251,7 +251,7 @@ we deserve.
 - ![](images/WhatsApp-Image-2020-02-10-at-3.43.02-PM-1-768x1024.jpeg)
     
 
-\*Images are from 'Bobó for Yemanjá', a February 9th event celebrating [Love Positive Women](https://luvhurts.co/lovewomen/) 2020 in NYC at which Brad performed 1986 and other poems.
+\*Images are from 'Bobó for Yemanjá', a February 9th event celebrating [Love Positive Women](/lovewomen/) 2020 in NYC at which Brad performed 1986 and other poems.
 
 * * *
 
@@ -293,4 +293,4 @@ we deserve.
 
 https://soundcloud.com/user-749818941/brad-walrond-reading-1986
 
-\*See [Every Where Alien in the LUV coalition](https://luvhurts.co/every-where-alien/). And, check out Brad Walrond’s [Launch Pad](https://luvhurts.co/features/launch-pad/) column in our [Features](https://luvhurts.co/features/).
+\*See [Every Where Alien in the LUV coalition](/every-where-alien/). And, check out Brad Walrond’s [Launch Pad](/launch-pad/) column in our [Features](/).

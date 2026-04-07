@@ -26,9 +26,9 @@ The research then unfolds in three parts: a 3D audiovisual piece that elaborat
 
 Game of Swarms contributes to the discussion about how the world is tackling global problems, such as the environmental crisis, and how the actors involved will have agency and response-ability to adapt together to these transformations.
 
-[Game of Swarms 2019](https://luvhurts.co/wp-content/uploads/2020/05/Game-of_Swarms_2019_short.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/05/Game-of_Swarms_2019_short.pdf)
+[Game of Swarms 2019](https://luvhurts.co/wp-content/uploads/2020/05/Game-of_Swarms_2019_short.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/05/Game-of_Swarms_2019_short.pdf) <!-- TODO: missing local asset Game-of_Swarms_2019_short.pdf -->
 
-[Script Workshop](https://luvhurts.co/wp-content/uploads/2020/05/Script_Workshop_June25_new.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/05/Script_Workshop_June25_new.pdf)
+[Script Workshop](https://luvhurts.co/wp-content/uploads/2020/05/Script_Workshop_June25_new.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/05/Script_Workshop_June25_new.pdf) <!-- TODO: missing local asset Script_Workshop_June25_new.pdf -->
 
 [paulanishijima.com](http://paulanishijima.com/)
 

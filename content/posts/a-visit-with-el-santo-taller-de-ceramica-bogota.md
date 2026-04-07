@@ -28,7 +28,7 @@ And I believe that that is how the story of this character, or trademark, starte
 
 **ES:** I think that my work goes from illustration all the way to ceramics, or from ceramics all the way to illustration, it is a path that mixes up all the time, that comes together, that shows distances and parallels. I studied Graphic Design, and believe that that is very present in my work.
 
-**LTIH:** I met you on a trip to Bogotá to visit [Luciérnagas](https://luvhurts.co/coalition/luciernagas/), a laboratory and project convened by Daniel Santiago Salguero. We met at the culmination or final ‘performance’ of the ten laboratories staged at the city’s Botanical Gardens. I made a joke about the ceramic penis pin you were wearing and learned that you had made it. You make ceramics at a studio where you also teach, El Santo Taller de Cerámica. Can you tell us a bit about your 'operation'? What happens there? 
+**LTIH:** I met you on a trip to Bogotá to visit [Luciérnagas](/luciernagas/), a laboratory and project convened by Daniel Santiago Salguero. We met at the culmination or final ‘performance’ of the ten laboratories staged at the city’s Botanical Gardens. I made a joke about the ceramic penis pin you were wearing and learned that you had made it. You make ceramics at a studio where you also teach, El Santo Taller de Cerámica. Can you tell us a bit about your 'operation'? What happens there? 
 
 **ES:** EL SANTO Taller de Cerámica is a space for creation, with its key driving force being ceramics. It is made up by Sergio and by all of the super beautiful and cool people who participate in the studio, working or taking classes, and it is SUPER important to make that clear, because the space is not a private room in which the artist makes his/her own works completely independently, and almost cloistered. In the way that I work, the participants give it life and contribute to having the studio reverberate throughout the neighborhood. The networks that are built with the students, friends, artists, and different people who intervene in the day to day of the studio, all allow for it to continue existing, alive, and happy, offering a space like what I am describing, magic in how it can work our inner selves and our thoughts while we are being creative. 
 
@@ -36,9 +36,9 @@ Ceramics is full of processes, the nature of the material demands a series of ti
 
 **LTIH:** You are based in Bogotá, but from another part of Colombia. Can you remind me, and when did you move to the capital? 
 
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.53-AM-1-1-768x1024.jpeg)](https://luvhurts.co/?attachment_id=3662)
-    
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.54-AM-2-768x1024.jpeg)](https://luvhurts.co/?attachment_id=3663)
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.53-AM-1-1-768x1024.jpeg)
+
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.54-AM-2-768x1024.jpeg)
     
 
 **ES:** I am from Cartagena, from the Colombian Caribbean. For me the move to Bogotá was very important. In Cartagena I felt very lost and out of place, I did not feel like I was part of anything, I wanted to speak through my work but could not find the voice. Of course, at this point, I did not know that  these things are built with time. But I did know that I had to do something, a change that would produce a movement, and without a doubt, Bogotá was my best decision. In one way or another, I ended up setting up and forming a collective that would change my life, and together with another friend, my first serious collective project took off. In it, I learned many important things that I apply day to day, such as the love for this profession and the discipline that this loving relationship entails. I learned and learn each day to resist, to work with people, to be generous, and to try to be generous again the next day, with myself and with others. I learn everyday to believe in myself, to listen to myself and to value all of the decisions that I have taken and that have brought me here, as I have already said, living the best version of Sergio. I try to give this to people who come into contact with my studio and with my work in general, more than just saying in detail everything that I think and feel, more than just teaching the techniques and secrets that I have come to know about the material throughout these 11 years with the students. I want my work to offer ways, opinions, diverse situations, emotions, and possibilities of coming closer to a better version of ourselves. We construct this by working on our inner selves, through creativity. 
@@ -57,9 +57,9 @@ As a matter of fact, what better moment than the one that we are currently going
 
 **ES:** Sure, at this moment, besides working on my own pieces and moving the studio, I am making a piece with Fernando Arias, a Colombian artist, who is important for his political and activist content; I am also in a project that I am super in love with. Well, first I want to say that I have a super cool collective with some friends, called “Colectivo El Engaño,” and together we are working with the Red Comunitária Trans, in a project called TRANSMEMORIA, and as the name says, we work with trans memories of people who have been assassinated or violated for being Trans, for being prostitutes, and for the different circumstances that the guild finds itself under in society, in the city of Bogotá, more precisely in the Santa Fe neighborhood. 
 
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.52-AM-1-1-1024x768.jpeg)](https://luvhurts.co/?attachment_id=3664)
-    
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.53-AM-1024x768.jpeg)](https://luvhurts.co/?attachment_id=3665)
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.52-AM-1-1-1024x768.jpeg)
+
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.53-AM-1024x768.jpeg)
     
 
 I would like to tell you that to me, LA RED COMUNITÁRIA TRANS is incredible, the work they do is fantastic, how they do it, always with strength, intelligence, and without fear. They are always on their feet, always resting with joy and sensuality, and that moves me, it makes me passionate. I consider myself an ally and fan of the TRANS fight. First because it is completely violent and unjust, the fact that society arbitrarily does not allow you to be who you are or who you want to be, it seems to me like that violates all of a person’s fundamental rights. So, ever since we came into contact with them through the Engaño, we have been very moved by many things that we had ignored, and we have been fascinated with their strength and resistance. So with the Engaño, we have done some ceramic tiles that commemorate life, death, and in some way, the same neighborhood as a place of resistance. These tiles were taken from the neighborhood, at the exact spots where many girls were assassinated, in places where violence has been used against them, and places that are important to them for what they represent and for resistance. We have done this trans-prostitute-artistic action of memory and re-signification twice, and it’s been incredible for many reasons. Because we have worked together, because we have created networks. Because we have come together to leave a precedent saying that we have not forgotten our fallen sisters who we know have been assassinated, although the majority of the crimes are under a false silence. We are now more unified. We are speaking and screaming together that life is to be respected, that trans people’s lives are to be respected, and that no one has the right to impose violence onto them, no one has the right to forbid you from being who you want to be. Personally, I have learned to know and understand many very important things that I did not see before, and that have truly changed my life in a very positive way, giving me strength. The girls always fill you with empowerment and strength, so to surround myself and work with them through Engaño has been very beautiful and transformative. It fills me with a lot of pride and I feel very very happy to be part of something super magic, and for me it is moving and beautiful that they also recognize me as an ally. 
@@ -84,7 +84,7 @@ Y creo que así empieza la historia de este personaje o marca con el arte... Y m
 
 **ES:** Yo creo que mi trabajo va desde la ilustración hasta la cerámica, o desde la cerámica hasta la ilustración, es un camino que se mezcla todo el tiempo, que se junta, que muestra distancias y situaciones paralelas. Yo estudié Diseño gráfico y creo que es un hecho que es un hecho que está muy presente en mi trabajo. 
 
-**LTIH:** I met you on a trip to Bogotá to visit [Luciérnagas](https://luvhurts.co/coalition/luciernagas/), a laboratory and project convened by Daniel Santiago Salguero. We met at the culmination or final ‘performance’ of the ten laboratories staged at the city’s Botanical Gardens. I made a joke about the ceramic penis pin you were wearing and learned that you had made it. You make ceramics at a studio where you also teach, El Santo Taller de Cerámica. Can you tell us a bit about your 'operation'? What happens there? 
+**LTIH:** I met you on a trip to Bogotá to visit [Luciérnagas](/luciernagas/), a laboratory and project convened by Daniel Santiago Salguero. We met at the culmination or final ‘performance’ of the ten laboratories staged at the city’s Botanical Gardens. I made a joke about the ceramic penis pin you were wearing and learned that you had made it. You make ceramics at a studio where you also teach, El Santo Taller de Cerámica. Can you tell us a bit about your 'operation'? What happens there? 
 
 **ES:** EL SANTO taller de cerámica es un espacio de creación que tiene como motor principal la cerámica. Está conformado por Sergio y por toda la gente super bonita y bacana (like cool) que participa en el taller, trabajando o tomando clases, y esto es SUPER importante dejarlo claro, por qué este espacio no es una habitación privada donde un artista trabaja sus obras completamente independiente y casi enclaustrado. De la manera en la que yo trabajo, los participantes le dan vida y contribuyen a que el taller pueda latir atreves del barro, las redes que se construyen con los estudiantes, amigos, artistas y diferentes personas que intervienen en el día a día del taller permiten que el taller siga en pie, siga vivo y feliz ofreciendo un espacio como digo yo, mágico en el que se puede trabajar el interior y el pensamiento con y mientras somos creativos.  
 
@@ -94,11 +94,11 @@ La cerámica está llena de procesos, el material exige por naturaleza una serie
 
 **ES:** Yo soy de Cartagena, del caribe Colombiano, para mí el cambió a  Bogotá fue super importante. En Cartagena me sentía muy perdido y desubicado, no me sentía parte de nada, quería hablar con mi trabajo pero no encontraba la voz. Claro en ese momento yo no sabía que esas cosas se construyen con tiempo , pero si supe que debía hacer algo, un cambio que produjera un movimiento  y sin duda Bogotá fue mi mejor decisión, de una u otra forma terminé armando y formando un colectivo que cambiaría mi vida y junto con otro amigo arrancó mi primer proyecto en colectivo serio, donde aprendí muchas cosas importantes que aplico día a día, como el amor por esta profesión y la disciplina que implica esta relación amorosa, aprendí y aprendo cada día a resistir, a trabajar con la gente, a ser generoso, y a tratar al día siguiente de ser nuevamente generoso, conmigo y con los demás, y aprendo todos los días a creer en mí, a escucharme y a valorar todas las decisiones que he tomado y qué me tienen aquí, como ya lo dije viviendo la mejor versión de Sergio. Y eso intento dar a las personas que tienen contacto con mi taller y con mi trabajo en general, más allá de contar con cada pieza lo que pienso y siento, más allá de enseñar las técnicas y secretos que conozco del material a lo largo de estos 11 años con los estudiantes, quiero que mi trabajo ofrezca maneras, opiniones, situaciones diversas, emociones y posibilidades de acércanos a una mejor versión de sí mismos.  Eso lo construimos trabajando nuestro interior con creatividad.  
 
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.52-AM-2-768x1024.jpeg)](https://luvhurts.co/?attachment_id=3666)
-    
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.54-AM-1-1-768x1024.jpeg)](https://luvhurts.co/?attachment_id=3667)
-    
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.56-AM-2-655x1024.jpeg)](https://luvhurts.co/?attachment_id=3668)
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.52-AM-2-768x1024.jpeg)
+
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.54-AM-1-1-768x1024.jpeg)
+
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.56-AM-2-655x1024.jpeg)
     
 
 **LTIH:** Your work is nice ... I pick up a lot of data when I look at your INSTA page (similar to our visit). Your work is sweet, ironic and political at once. Can you say what your politics are? 
@@ -126,19 +126,19 @@ Creo que juntos podemos formar una voz con el volumen necesario para la revoluci
 
 Pictures by: Sergio El Santo/El Santo Taller de Cerámica
 
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.51-AM-1-768x1024.jpeg)](https://luvhurts.co/encounters/a-visit-with-el-santo-taller-de-ceramica-bogota/attachment/whatsapp-image-2020-04-23-at-5-36-51-am-1/)
-    
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.51-AM-2-768x1024.jpeg)](https://luvhurts.co/encounters/a-visit-with-el-santo-taller-de-ceramica-bogota/attachment/whatsapp-image-2020-04-23-at-5-36-51-am-2/)
-    
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.52-AM-3-768x1024.jpeg)](https://luvhurts.co/encounters/a-visit-with-el-santo-taller-de-ceramica-bogota/attachment/whatsapp-image-2020-04-23-at-5-36-52-am-3/)
-    
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.55-AM-768x1024.jpeg)](https://luvhurts.co/encounters/a-visit-with-el-santo-taller-de-ceramica-bogota/attachment/whatsapp-image-2020-04-23-at-5-36-55-am/)
-    
-- [![](images/WhatsApp-Image-2020-04-24-at-12.13.46-PM.jpeg)](https://luvhurts.co/encounters/a-visit-with-el-santo-taller-de-ceramica-bogota/attachment/whatsapp-image-2020-04-24-at-12-13-46-pm/)
-    
-- [![](images/bebida-maricona-1-768x1024.jpg)](https://luvhurts.co/encounters/a-visit-with-el-santo-taller-de-ceramica-bogota/attachment/bebida-maricona-1/)
-    
-- [![](images/WhatsApp-Image-2020-04-23-at-5.36.56-AM-1-1-832x1024.jpeg)](https://luvhurts.co/encounters/a-visit-with-el-santo-taller-de-ceramica-bogota/attachment/whatsapp-image-2020-04-23-at-5-36-56-am-1-1/)
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.51-AM-1-768x1024.jpeg)
+
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.51-AM-2-768x1024.jpeg)
+
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.52-AM-3-768x1024.jpeg)
+
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.55-AM-768x1024.jpeg)
+
+- ![](images/WhatsApp-Image-2020-04-24-at-12.13.46-PM.jpeg)
+
+- ![](images/bebida-maricona-1-768x1024.jpg)
+
+- ![](images/WhatsApp-Image-2020-04-23-at-5.36.56-AM-1-1-832x1024.jpeg)
     
 
 Instagram: [El Santo Taller de Cerámica](https://www.instagram.com/elsantotallerdeceramica/)

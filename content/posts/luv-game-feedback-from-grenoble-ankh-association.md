@@ -13,10 +13,10 @@ title: "LUV game feedback from Grenoble + Ankh Association"
 type: "post"
 ---
 
-The first public presentation of [Exposition Points de Vie](https://www.facebook.com/events/365385111036477/), organized by [Ankh Association](https://luvhurts.co/coalition/ankh-association/) and dedicated to people living with HIV in Egypt, took place on October 26th in Grenoble, France. The exhibition gave light to their experiences, joys, and difficulties. It involved the interactive game by Luv 'Til it Hurts, a Falafel party, and Karaoke. The benefits went to [حملة اعرف اكثر - Campagne 'Pour en savoir plus' - 'Know more' campaign](https://www.facebook.com/know.more.campaign/) .
+The first public presentation of [Exposition Points de Vie](https://www.facebook.com/events/365385111036477/), organized by [Ankh Association](/ankh-association/) and dedicated to people living with HIV in Egypt, took place on October 26th in Grenoble, France. The exhibition gave light to their experiences, joys, and difficulties. It involved the interactive game by Luv 'Til it Hurts, a Falafel party, and Karaoke. The benefits went to [حملة اعرف اكثر - Campagne 'Pour en savoir plus' - 'Know more' campaign](https://www.facebook.com/know.more.campaign/) .
 
 Nic/Taha:  
-Hope the event in [Colombia](https://luvhurts.co/texts/relatory-bogota/) went well! I just wanted to send you a short feedback of our event in Grenoble yesterday. It went really well, a lot of people attended and they were all really interested by the project and the discussion was really interesting as well.  
+Hope the event in [Colombia](/relatory-bogota/) went well! I just wanted to send you a short feedback of our event in Grenoble yesterday. It went really well, a lot of people attended and they were all really interested by the project and the discussion was really interesting as well.  
   
 Todd/LUV:  
 Was the LUV game useful helping opening a dialogue and/or holding the space you envisioned for the event?  
@@ -44,16 +44,16 @@ hope
   
 ... and some really nice drawings :)
 
-- [![](images/IMG-2330-1024x768.jpg)](https://luvhurts.co/wp-content/uploads/2019/12/IMG-2330-1024x768.jpg)
+- [![](images/IMG-2330-1024x768.jpg)](/posts/images/IMG-2330-1024x768.jpg)
     
-- [![](images/IMG-2333-1024x768.jpg)](https://luvhurts.co/wp-content/uploads/2019/12/IMG-2333-1024x768.jpg)
+- [![](images/IMG-2333-1024x768.jpg)](/posts/images/IMG-2333-1024x768.jpg)
     
-- [![](images/IMG-2338-1024x768.jpg)](https://luvhurts.co/wp-content/uploads/2019/12/IMG-2338-1024x768.jpg)
+- [![](images/IMG-2338-1024x768.jpg)](/posts/images/IMG-2338-1024x768.jpg)
     
-- [![](images/IMG-2340-1024x768.jpg)](https://luvhurts.co/wp-content/uploads/2019/12/IMG-2340-1024x768.jpg)
+- [![](images/IMG-2340-1024x768.jpg)](/posts/images/IMG-2340-1024x768.jpg)
     
-- [![](images/IMG-2343-1024x768.jpg)](https://luvhurts.co/wp-content/uploads/2019/12/IMG-2343-1024x768.jpg)
+- [![](images/IMG-2343-1024x768.jpg)](/posts/images/IMG-2343-1024x768.jpg)
     
-- [![](images/IMG-2345-720x1024.jpg)](https://luvhurts.co/wp-content/uploads/2019/12/IMG-2345-720x1024.jpg)
+- [![](images/IMG-2345-720x1024.jpg)](/posts/images/IMG-2345-720x1024.jpg)
     
-- [![](images/IMG-2348-1024x726.jpg)](https://luvhurts.co/wp-content/uploads/2019/12/IMG-2348-1024x726.jpg)
+- [![](images/IMG-2348-1024x726.jpg)](/posts/images/IMG-2348-1024x726.jpg)

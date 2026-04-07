@@ -46,4 +46,4 @@ _Criei [um CROWDFUNDING para viabilização do projeto](https://www.catarse.me/d
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-See also: [Emanuel Brauna-Lechat interviews Momô de Oliveira #LPW2020](https://luvhurts.co/encounters/emanuel-brauna-lechat-interviews-momo-de-oliveira-lpw2020/﻿)
+See also: [Emanuel Brauna-Lechat interviews Momô de Oliveira #LPW2020](/emanuel-brauna-lechat-interviews-momo-de-oliveira-lpw2020/﻿)

@@ -9,6 +9,6 @@ type: "page"
 
 Act III includes the denouement and proposes a LUV afterlife illustrated by Brazilian artist [PogoLand](https://www.instagram.com/pogoland_art/). For a look at some of his previous work, check out [Cuiabá](http://cuiaba.lanchonete.org/), a zine made during [Cidade Queer](http://www.cidadequeer.lanchonete.org/). 
 
-As the R&D phase of LUV has freshly ended, the project seems to have yielded a [traveling group exhibit](https://luvhurts.co/mixed-media/exquisite-corpse/); a [growing work group](https://luvhurts.co/texts/homage-to-a-work-group/); and the [blueprint for a philanthropic device](https://luvhurts.co/texts/luv-fund/).
+As the R&D phase of LUV has freshly ended, the project seems to have yielded a [traveling group exhibit](/exquisite-corpse/); a [growing work group](/homage-to-a-work-group/); and the [blueprint for a philanthropic device](/luv-fund/).
 
 Please stay tuned!

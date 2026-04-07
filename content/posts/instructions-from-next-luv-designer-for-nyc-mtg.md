@@ -12,4 +12,4 @@ title: "Instructions from next-LUV designer for NYC mtg"
 type: "post"
 ---
 
-_\[\*Polish artist and architect, Jakub Szczęsny is helping to lead [ACT III](https://luvhurts.co/timeline/acts/). LUV's denouement is gonna be a blast! Stay tuned!!\]_
+_\[\*Polish artist and architect, Jakub Szczęsny is helping to lead [ACT III](/acts/). LUV's denouement is gonna be a blast! Stay tuned!!\]_

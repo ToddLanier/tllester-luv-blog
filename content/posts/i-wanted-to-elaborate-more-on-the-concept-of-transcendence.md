@@ -51,4 +51,4 @@ It is to transform memory into future-making and what comes next into one more 
 
 Am I proposing a sort of immanent transcendence? Maybe…
 
-[_Existential Medicine: Essays on Health and Illness, by Kevin Aho - Chapter 13, John Russon and Kirsten Jacobson_](https://luvhurts.co/wp-content/uploads/2020/04/kevin-aho-existential-medicine-essays-on-health-and-illness-1-dragged-1.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/04/kevin-aho-existential-medicine-essays-on-health-and-illness-1-dragged-1.pdf)
+[_Existential Medicine: Essays on Health and Illness, by Kevin Aho - Chapter 13, John Russon and Kirsten Jacobson_](https://luvhurts.co/wp-content/uploads/2020/04/kevin-aho-existential-medicine-essays-on-health-and-illness-1-dragged-1.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/04/kevin-aho-existential-medicine-essays-on-health-and-illness-1-dragged-1.pdf) <!-- TODO: missing local asset kevin-aho-existential-medicine-essays-on-health-and-illness-1-dragged-1.pdf -->

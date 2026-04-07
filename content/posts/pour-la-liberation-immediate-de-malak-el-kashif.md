@@ -47,6 +47,6 @@ Cairo Institute for Human Rights Studies, Leslie Piquemal: [leslie@cihrs.org](m
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**A press release by [Ankh association](https://luvhurts.co/coalition/ankh-association/) that can be found here:** [https://www.ankhfrance.org/conference-de-press](https://www.ankhfrance.org/conference-de-press)
+**A press release by [Ankh association](/ankh-association/) that can be found here:** [https://www.ankhfrance.org/conference-de-press](https://www.ankhfrance.org/conference-de-press)
 
 **For information in English, click [here](https://www.ankhfrance.org/malak).**

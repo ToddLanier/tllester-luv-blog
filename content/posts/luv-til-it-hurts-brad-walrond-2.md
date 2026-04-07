@@ -55,4 +55,4 @@ type: "post"
 
 See also:
 
-[Luv ‘Til It Hurts: the Launch](https://luvhurts.co/launch-pad/luv-till-it-hurts-the-launch/), by Brad Walrond
+[Luv ‘Til It Hurts: the Launch](/luv-till-it-hurts-the-launch/), by Brad Walrond

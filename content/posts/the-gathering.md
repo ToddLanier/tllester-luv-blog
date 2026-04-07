@@ -26,7 +26,7 @@ _Company -_ S_elf Portrait_
 
 **_Introduction_**
 
-_In “_[_A Conversation with Eric Rhein_](https://luvhurts.co/events/a-conversation-with-artist-eric-rhein/)_,” an interview on this website, Eric was asked about some writing he’d done: a text which corresponds with many of the themes in his recent exhibition,_ **_Lifelines_**_. Eric followed-up with this memoir, written in 1998, and we are happy that he’s shared it with us here._
+_In “_[_A Conversation with Eric Rhein_](/a-conversation-with-artist-eric-rhein/)_,” an interview on this website, Eric was asked about some writing he’d done: a text which corresponds with many of the themes in his recent exhibition,_ **_Lifelines_**_. Eric followed-up with this memoir, written in 1998, and we are happy that he’s shared it with us here._
 
 **The Gathering**  
 _by Eric Rhein_  

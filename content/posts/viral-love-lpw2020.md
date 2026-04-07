@@ -11,7 +11,7 @@ title: "Viral Love #LPW2020"
 type: "post"
 ---
 
-_\[\*I first met Oma working in the legal aid clinic for Iraqi refugees in Cairo set up by Barbara Harrell-Bond back in 2007. To read more about our background, check out_ [_A series for LovePositiveWomen2020_](https://luvhurts.co/texts/a-series-for-lovepositivewomen2020-lpw2020-pre-c/) _and_ [_What do a Sudanese Mom Search the Internet for?_](https://luvhurts.co/texts/what-do-a-sudanese-mom-search-the-internet-for/)_, as well as a description of_ [_LUV's ACT 1.5_](https://luvhurts.co/timeline/acts/) _(LovePositiveWomen2020). Thanks for being there, Oma! xo Todd\]_
+_\[\*I first met Oma working in the legal aid clinic for Iraqi refugees in Cairo set up by Barbara Harrell-Bond back in 2007. To read more about our background, check out_ [_A series for LovePositiveWomen2020_](/a-series-for-lovepositivewomen2020-lpw2020-pre-c/) _and_ [_What do a Sudanese Mom Search the Internet for?_](/what-do-a-sudanese-mom-search-the-internet-for/)_, as well as a description of_ [_LUV's ACT 1.5_](/acts/) _(LovePositiveWomen2020). Thanks for being there, Oma! xo Todd\]_
 
 Viral Love, Unconditional One!
 

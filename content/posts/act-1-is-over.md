@@ -10,6 +10,6 @@ title: "Act 1 is Over"
 type: "post"
 ---
 
-_\[_[_ACT I_](https://luvhurts.co/timeline/acts/) _entailed a lot of things, and one of the most significant outputs is a_ [_GAME_](https://luvhurts.co/play-me/) _made by [project members and artists/designers](http://abakry.com/en/)_ [_in Egypt_](http://abakry.com/en/)_. There is also this very cool GIF made by Brazilian designer, [Gustavo Marcasse](https://gustavomarcasse.wixsite.com/marcasse). Overall, ACT I was meant to be rather playful! Now, we're working on ACT I.5 in support of [Love Positive Women](https://visualaids.org/projects/love-positive-women), Feb. 2020:\]_
+_\[_[_ACT I_](/acts/) _entailed a lot of things, and one of the most significant outputs is a_ [_GAME_](/play-me/) _made by [project members and artists/designers](http://abakry.com/en/)_ [_in Egypt_](http://abakry.com/en/)_. There is also this very cool GIF made by Brazilian designer, [Gustavo Marcasse](https://gustavomarcasse.wixsite.com/marcasse). Overall, ACT I was meant to be rather playful! Now, we're working on ACT I.5 in support of [Love Positive Women](https://visualaids.org/projects/love-positive-women), Feb. 2020:\]_
 
-[![](images/g18-12.gif)](https://luvhurts.co/wp-content/uploads/2019/12/g18-12.gif)
+[![](images/g18-12.gif)](/posts/images/g18-12.gif)

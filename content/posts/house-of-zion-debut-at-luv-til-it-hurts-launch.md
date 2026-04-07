@@ -23,4 +23,4 @@ Pony Zion is a father, dancer, choreographer, performer, creative director and I
 
 https://vimeo.com/341096534
 
-#### [House of Zion](https://luvhurts.co/coalition/house-of-zion/)
+#### [House of Zion](/house-of-zion/)

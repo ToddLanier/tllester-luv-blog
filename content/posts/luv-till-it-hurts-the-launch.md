@@ -36,4 +36,4 @@ The poem is written in five parts. I wrote each section as I completed either an
 
 See also:
 
-[Luv 'Til it Hurts](https://luvhurts.co/launch-pad/luv-til-it-hurts-brad-walrond-2/), by Brad Walrond
+[Luv 'Til it Hurts](/luv-til-it-hurts-brad-walrond-2/), by Brad Walrond

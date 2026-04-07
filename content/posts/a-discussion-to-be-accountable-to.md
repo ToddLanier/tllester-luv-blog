@@ -17,7 +17,7 @@ type: "post"
 _New generations of HIV/AIDS strategies  
 _6-8:30pm, Saturday, Oct. 27th
 
-See [video of the House of Zion debut performance](https://luvhurts.co/mixed-media/house-of-zion-debut-at-luv-til-it-hurts-launch/) that preceded the panel discussion.
+See [video of the House of Zion debut performance](/house-of-zion-debut-at-luv-til-it-hurts-launch/) that preceded the panel discussion.
 
 Free and Open to the public
 
@@ -63,7 +63,7 @@ It’s still early. Please join us. Please help this discussion to be the contin
 
 * * *
 
-Kairon brought _Humans as Hosts_ to NYC this year through a partnership between Residency Unlimited and the Taipei Cultural Center in New York, and exhibits a combined series from the two cities at El Museo de Los Sures (Williamsburg) from October 18th thru 28st, [a solo show called _Luv ‘til it Hurts_.](https://luvhurts.co/programs/luv-till-it-hurts-by-kairon-liu/)
+Kairon brought _Humans as Hosts_ to NYC this year through a partnership between Residency Unlimited and the Taipei Cultural Center in New York, and exhibits a combined series from the two cities at El Museo de Los Sures (Williamsburg) from October 18th thru 28st, [a solo show called _Luv ‘til it Hurts_.](/luv-till-it-hurts-by-kairon-liu/)
 
 ### BIOGRAPHIES:             
 

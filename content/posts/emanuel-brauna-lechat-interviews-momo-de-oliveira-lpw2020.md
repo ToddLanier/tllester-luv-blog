@@ -61,4 +61,4 @@ MO: Meu desejo é passar uma mensagem de amor e solidariedade, espero que ela ch
 
 Help finance Emanuel Brauna-Lechat's film, 'DORA NÃO CANSOU DE VIVER...' here: [https://www.catarse.me/doranaocansoudeviver](https://www.catarse.me/doranaocansoudeviver)
 
-See also: [interview with Emanuel Brauna-Lechat](https://luvhurts.co/encounters/dora-nao-consou-de-viver-a-film-in-the-making/﻿)
+See also: [interview with Emanuel Brauna-Lechat](/dora-nao-consou-de-viver-a-film-in-the-making/﻿)

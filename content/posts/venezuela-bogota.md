@@ -33,10 +33,10 @@ The lab is being used by Colombians in majority. Almost all of them have HIV and
   
 The lab features 10 thematic sessions, five of which we have already done: The body in the arts, Lexical Memory, Art and borders, Art and HIV, Study group and networks of affect. These sessions have brought talks and collaborations that have been very clarifying about the situation. As you already know, the idea is for there to be a constant group, and I believe there will likely be around ten people who will arrive before the end of the lab for the presentation. The work methodology for this performance comes from tools that I have acquired during my Master’s in Theater and the Living Arts, which I completed at the National University of Bogotá some years ago. This Master’s is managed in large part by the directors of the Mapateatro theater company, which has a special interest in poetics that are related to memory and to that which is political, as well as social.
 
-[Sesión #1 – Contexto del cuerpo en las Artes](https://luvhurts.co/texts/relatoria-sesion-1-contexto-del-cuerpo-en-las-artes/)
+[Sesión #1 – Contexto del cuerpo en las Artes](/relatoria-sesion-1-contexto-del-cuerpo-en-las-artes/)
 
-[Sesión #2 – Memoria Léxica](https://luvhurts.co/mixed-media/sesion-2-memoria-lexica/)
+[Sesión #2 – Memoria Léxica](/sesion-2-memoria-lexica/)
 
-[Sesión #3 - Arte / VIH](https://luvhurts.co/texts/relatoria-sesion-3-arte-vih/)
+[Sesión #3 - Arte / VIH](/relatoria-sesion-3-arte-vih/)
 
-[Sesión #4 - Arte / Fronteras](https://luvhurts.co/texts/relatoria-sesion-4-arte-fronteras/)
+[Sesión #4 - Arte / Fronteras](/relatoria-sesion-4-arte-fronteras/)

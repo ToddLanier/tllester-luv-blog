@@ -23,6 +23,6 @@ Then pack it up in boxes, head for the next…”_
   
 See also, by Alberto Pereira Jr:
 
-[#movingtarget](https://luvhurts.co/texts/movingtarget/)
+[#movingtarget](/movingtarget/)
 
-[Please, touch me (PT/EN)](https://luvhurts.co/texts/please-touch-me-pt-en/)
+[Please, touch me (PT/EN)](/please-touch-me-pt-en/)

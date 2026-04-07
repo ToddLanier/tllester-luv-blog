@@ -22,7 +22,7 @@ type: "post"
 
 Curatorial Advisor: Adam Zucker, Theodore (Ted) Kerr
 
-Organized by **[Luv 'til it hurts](https://luvhurts.co/)**, and collaborating with more than 150 others to co-create [Reimagine End of Life 2018.](https://www.letsreimagine.org/new-york/schedule)
+Organized by **[Luv 'til it hurts](/)**, and collaborating with more than 150 others to co-create [Reimagine End of Life 2018.](https://www.letsreimagine.org/new-york/schedule)
 
 [![](images/Reimagine_EndofLife_Horizontal_Black.png)](https://www.letsreimagine.org/new-york/schedule)
 

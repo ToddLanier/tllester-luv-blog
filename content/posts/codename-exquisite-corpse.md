@@ -12,7 +12,7 @@ title: "Codename: Exquisite Corpse"
 type: "post"
 ---
 
-_\[\*When the project began, I wrote a piece entitled [Why Make an Open Work](https://luvhurts.co/field-notes/why-make-an-open-work/)? where I used some borrowed 'game storming' graphics to show the chaos needed within a project before it comes to a point. This logic showed up again when [Adham Bakry](http://abakry.com/en/) made LUV's first design elements (see image)._ _While I don't imagine that an art exhibition is the only 'point' of LUV's two-year period of understanding, it does seem very compelling as we near the end of its initial two-year period. Codename: Exquisite Corpse! xo Todd\]_
+_\[\*When the project began, I wrote a piece entitled [Why Make an Open Work](/why-make-an-open-work/)? where I used some borrowed 'game storming' graphics to show the chaos needed within a project before it comes to a point. This logic showed up again when [Adham Bakry](http://abakry.com/en/) made LUV's first design elements (see image)._ _While I don't imagine that an art exhibition is the only 'point' of LUV's two-year period of understanding, it does seem very compelling as we near the end of its initial two-year period. Codename: Exquisite Corpse! xo Todd\]_
 
 \*\*\*
 
