@@ -29,6 +29,6 @@ In the best of circumstances, sharing partner tiles from other locations and bei
   
 The partner tiles are all here in this booklet:
 
-[](https://luvhurts.co/wp-content/uploads/2019/12/Luv_PartnerBook-1.pdf)[LUV Partner Tiles (Global)](https://luvhurts.co/wp-content/uploads/2019/12/Luv_PartnerBook.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/12/Luv_PartnerBook-1.pdf) <!-- TODO: missing local asset Luv_PartnerBook-1.pdf -->
+[](/pdfs/Luv_PartnerBook-1.pdf)[LUV Partner Tiles (Global)](/pdfs/Luv_PartnerBook.pdf)[Download](/pdfs/Luv_PartnerBook-1.pdf)
 
 Please use and re-use the Luv game in the most generous, unconstrained ways you can imagine. And, well, [tell us about it](/contact/) if you have time.

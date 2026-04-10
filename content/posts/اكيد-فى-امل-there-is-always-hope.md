@@ -41,4 +41,4 @@ THERE IS ALWAYS HOPE
 
 https://youtu.be/0XjaXpahoIA
 
-[There is Always Hope (MP3)](https://luvhurts.co/wp-content/uploads/2019/12/fi_amal.mp3)[Download](https://luvhurts.co/wp-content/uploads/2019/12/fi_amal.mp3) <!-- TODO: missing local asset fi_amal.mp3 -->
+[There is Always Hope (MP3)](/audio/fi_amal.mp3)[Download](/audio/fi_amal.mp3)

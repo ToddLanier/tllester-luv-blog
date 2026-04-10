@@ -35,4 +35,4 @@ I contracted HIV in São Paulo just a few years ago, and I am your public. 
 
 \*\*\*
 
-[MASP\_Sexualities\_Review](https://luvhurts.co/wp-content/uploads/2019/10/MASP_Sexualities_Review.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/10/MASP_Sexualities_Review.pdf) <!-- TODO: missing local asset MASP_Sexualities_Review.pdf -->
+[MASP\_Sexualities\_Review](/pdfs/MASP_Sexualities_Review.pdf)[Download](/pdfs/MASP_Sexualities_Review.pdf)

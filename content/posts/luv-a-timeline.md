@@ -31,8 +31,8 @@ In February 2019, LUV partnered with [Love Positive Women](https://visualaids.o
   
 A lot of things happened over the first couple years of LUV, and these are some details that haven't yet been highlighted on [the RED site](/). 
 
-[CAHR 10th Anniversary](https://luvhurts.co/wp-content/uploads/2020/12/Arts-Activism-Research-Programme-January-2018.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/12/Arts-Activism-Research-Programme-January-2018.pdf) <!-- TODO: missing local asset Arts-Activism-Research-Programme-January-2018.pdf -->
+[CAHR 10th Anniversary](/pdfs/Arts-Activism-Research-Programme-January-2018.pdf)[Download](/pdfs/Arts-Activism-Research-Programme-January-2018.pdf)
 
-[May 24th programme](https://luvhurts.co/wp-content/uploads/2020/12/May24_Invite.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/12/May24_Invite.pdf) <!-- TODO: missing local asset May24_Invite.pdf -->
+[May 24th programme](/pdfs/May24_Invite.pdf)[Download](/pdfs/May24_Invite.pdf)
 
-[Aug 20th programme](https://luvhurts.co/wp-content/uploads/2020/12/Aug20_Luv_Invite_v2.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/12/Aug20_Luv_Invite_v2.pdf) <!-- TODO: missing local asset Aug20_Luv_Invite_v2.pdf -->
+[Aug 20th programme](/pdfs/Aug20_Luv_Invite_v2.pdf)[Download](/pdfs/Aug20_Luv_Invite_v2.pdf)

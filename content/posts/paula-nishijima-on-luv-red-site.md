@@ -36,4 +36,4 @@ _\[\*In the process of making [Luv 'til it Hurts](/)<!-- TODO: verify link - was
 - ![](images/Layout_white_site_June23-page-011-1024x640.jpg)
     
 
-[Layout White Site](https://luvhurts.co/wp-content/uploads/2020/09/Layout_white_site_June23-1.pdf) [Download](https://luvhurts.co/wp-content/uploads/2020/09/Layout_white_site_June23-1.pdf) <!-- TODO: missing local asset Layout_white_site_June23-1.pdf -->
+[Layout White Site](/pdfs/Layout_white_site_June23-1.pdf) [Download](/pdfs/Layout_white_site_June23-1.pdf)

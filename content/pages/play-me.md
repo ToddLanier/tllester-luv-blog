@@ -14,30 +14,30 @@ The [LUV Game strategy](/the-game/) is explained on its [broadsheet](https://
 
 [![](images/Luv_Gameplan-1024x676.jpg)](/pages/images/Luv_Gameplan.jpg)
 
-[LUV\_English](https://luvhurts.co/wp-content/uploads/2019/09/LUV_English-1.pdf) [Download](https://luvhurts.co/wp-content/uploads/2019/09/LUV_English-1.pdf) <!-- TODO: missing local asset LUV_English-1.pdf -->
+[LUV\_English](/pdfs/LUV_English-1.pdf) [Download](/pdfs/LUV_English-1.pdf)
 
-[LUV\_Portuguese](https://luvhurts.co/wp-content/uploads/2019/11/LUV_-PT3-1-1.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/11/LUV_-PT3-1-1.pdf) <!-- TODO: missing local asset LUV_-PT3-1-1.pdf -->
+[LUV\_Portuguese](/pdfs/LUV_-PT3-1-1.pdf)[Download](/pdfs/LUV_-PT3-1-1.pdf)
 
-[LUV\_Arabic](https://luvhurts.co/wp-content/uploads/2019/10/LUV_inst_Ar.pdf) [Download](https://luvhurts.co/wp-content/uploads/2019/10/LUV_inst_Ar.pdf) <!-- TODO: missing local asset LUV_inst_Ar.pdf -->
+[LUV\_Arabic](/pdfs/LUV_inst_Ar.pdf) [Download](/pdfs/LUV_inst_Ar.pdf)
 
-[LUV\_French](https://luvhurts.co/wp-content/uploads/2019/11/LUV_-_FR_.pdf) [Download](https://luvhurts.co/wp-content/uploads/2019/11/LUV_-_FR_.pdf) <!-- TODO: missing local asset LUV_-_FR_.pdf -->
+[LUV\_French](/pdfs/LUV_-_FR_.pdf) [Download](/pdfs/LUV_-_FR_.pdf)
 
-[LUV\_Dutch](https://luvhurts.co/wp-content/uploads/2019/11/LUV__DT_.pdf) [Download](https://luvhurts.co/wp-content/uploads/2019/11/LUV__DT_.pdf) <!-- TODO: missing local asset LUV__DT_.pdf -->
+[LUV\_Dutch](/pdfs/LUV__DT_.pdf) [Download](/pdfs/LUV__DT_.pdf)
 
-[LUV\_Spanish](https://luvhurts.co/wp-content/uploads/2019/11/LUV_-_ES_.pdf) [Download](https://luvhurts.co/wp-content/uploads/2019/11/LUV_-_ES_.pdf) <!-- TODO: missing local asset LUV_-_ES_.pdf -->
+[LUV\_Spanish](/pdfs/LUV_-_ES_.pdf) [Download](/pdfs/LUV_-_ES_.pdf)
 
-[LUV\_Mandarin](https://luvhurts.co/wp-content/uploads/2019/11/LUV_-MANDARIN.pdf) [Download](https://luvhurts.co/wp-content/uploads/2019/11/LUV_-MANDARIN.pdf) <!-- TODO: missing local asset LUV_-MANDARIN.pdf -->
+[LUV\_Mandarin](/pdfs/LUV_-MANDARIN.pdf) [Download](/pdfs/LUV_-MANDARIN.pdf)
 
-[LUV\_Turkish](https://luvhurts.co/wp-content/uploads/2019/12/LUV_-TURKISH.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/12/LUV_-TURKISH.pdf) <!-- TODO: missing local asset LUV_-TURKISH.pdf -->
+[LUV\_Turkish](/pdfs/LUV_-TURKISH.pdf)[Download](/pdfs/LUV_-TURKISH.pdf)
 
-[LUV\_Greek](https://luvhurts.co/wp-content/uploads/2019/12/LUV_-GREEK.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/12/LUV_-GREEK.pdf) <!-- TODO: missing local asset LUV_-GREEK.pdf -->
+[LUV\_Greek](/pdfs/LUV_-GREEK.pdf)[Download](/pdfs/LUV_-GREEK.pdf)
 
-[LUV\_German](https://luvhurts.co/wp-content/uploads/2019/12/LUV_-GERMAN.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/12/LUV_-GERMAN.pdf) <!-- TODO: missing local asset LUV_-GERMAN.pdf -->
+[LUV\_German](/pdfs/LUV_-GERMAN.pdf)[Download](/pdfs/LUV_-GERMAN.pdf)
 
-[B/W Game Pieces (Grenoble)](https://luvhurts.co/wp-content/uploads/2019/12/Luv_booklet.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/12/Luv_booklet.pdf) <!-- TODO: missing local asset Luv_booklet.pdf -->
+[B/W Game Pieces (Grenoble)](/pdfs/Luv_booklet.pdf)[Download](/pdfs/Luv_booklet.pdf)
 
-[Color Game Pieces (São Paulo)](https://luvhurts.co/wp-content/uploads/2019/12/Luv_booklet3.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/12/Luv_booklet3.pdf) <!-- TODO: missing local asset Luv_booklet3.pdf -->
+[Color Game Pieces (São Paulo)](/pdfs/Luv_booklet3.pdf)[Download](/pdfs/Luv_booklet3.pdf)
 
-[LUV Partner Tiles (Global)](https://luvhurts.co/wp-content/uploads/2019/12/Luv_PartnerBook.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/12/Luv_PartnerBook.pdf) <!-- TODO: missing local asset Luv_PartnerBook.pdf -->
+[LUV Partner Tiles (Global)](/pdfs/Luv_PartnerBook.pdf)[Download](/pdfs/Luv_PartnerBook.pdf)
 
-[Game Piece Pamphlet (Bogota)](https://luvhurts.co/wp-content/uploads/2019/12/Luv_booklet2-1.pdf)[Download](https://luvhurts.co/wp-content/uploads/2019/12/Luv_booklet2-1.pdf) <!-- TODO: missing local asset Luv_booklet2-1.pdf -->
+[Game Piece Pamphlet (Bogota)](/pdfs/Luv_booklet2-1.pdf)[Download](/pdfs/Luv_booklet2-1.pdf)

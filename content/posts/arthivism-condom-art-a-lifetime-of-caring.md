@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=GTb85B82Xpc
 [  
 Q & A](https://luvhurts.co/wp-content/uploads/2020/03/ab_qa.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/03/ab_qa.pdf) <!-- TODO: missing local asset ab_qa.pdf -->
 
-[Creative Workshop](https://luvhurts.co/wp-content/uploads/2020/03/fiat-lux.pptx)[Download](https://luvhurts.co/wp-content/uploads/2020/03/fiat-lux.pptx) <!-- TODO: missing local asset fiat-lux.pptx -->
+[Creative Workshop](/docs/fiat-lux.pptx)[Download](/docs/fiat-lux.pptx)
 
   
 See more here: [ArtHIVism](/arthivism/)

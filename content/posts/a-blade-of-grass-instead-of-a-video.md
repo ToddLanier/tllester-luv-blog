@@ -20,4 +20,4 @@ The LUV project had the luxury of a $50k start-up grant from the Ford Foundation
   
 With all my heart I still believe (after almost three years) that the LUV project will generate a dynamic, functioning philanthropic device, which rather than asking for grants, will augment present resources available to artists and activists working on HIV and stigma. Stay tuned!!  
 
-[Grant language](https://luvhurts.co/wp-content/uploads/2020/11/ABOG.pdf)[Download](https://luvhurts.co/wp-content/uploads/2020/11/ABOG.pdf) <!-- TODO: missing local asset ABOG.pdf -->
+[Grant language](/pdfs/ABOG.pdf)[Download](/pdfs/ABOG.pdf)
