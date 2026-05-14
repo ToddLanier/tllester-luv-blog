@@ -13,7 +13,7 @@
     {{ with .Params.coverImage }}
     <div class="featured-image">
       <a href="{{ $.Permalink }}" rel="bookmark">
-        <img src="/posts/images/{{ . }}" alt="{{ $.Title }}">
+        <img src="{{ printf "posts/images/%s" . | relURL }}" alt="{{ $.Title }}">
       </a>
     </div>
     {{ end }}

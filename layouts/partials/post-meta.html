@@ -2,7 +2,7 @@
 <ul class="meta-list">
   <li>
     <span class="meta-title">Category:</span>
-    {{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
+    {{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "categories/" | relURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
   </li>
 </ul>
 {{ end }}

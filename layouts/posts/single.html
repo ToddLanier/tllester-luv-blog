@@ -11,7 +11,7 @@
 
         {{ with .Params.coverImage }}
         <div class="featured-image">
-          <img src="/posts/images/{{ . }}" alt="{{ $.Title }}">
+          <img src="{{ printf "posts/images/%s" . | relURL }}" alt="{{ $.Title }}">
         </div>
         {{ end }}
 
