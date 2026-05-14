@@ -1,11 +1,16 @@
-{{- $url := .Destination -}}
-{{- if hasPrefix $url "images/" -}}
-  {{- $section := .Page.Section -}}
-  {{- $type := .Page.Type -}}
-  {{- if or (eq $section "posts") (eq $type "post") -}}
-    {{- $url = printf "/posts/%s" $url -}}
-  {{- else if or (eq $section "pages") (eq $type "page") -}}
-    {{- $url = printf "/pages/%s" $url -}}
+{{- $dest := .Destination -}}
+{{- if not (or (hasPrefix $dest "http://") (hasPrefix $dest "https://") (hasPrefix $dest "//")) -}}
+  {{- if hasPrefix $dest "images/" -}}
+    {{- $section := .Page.Section -}}
+    {{- $type := .Page.Type -}}
+    {{- if or (eq $section "posts") (eq $type "post") -}}
+      {{- $dest = printf "posts/%s" $dest -}}
+    {{- else if or (eq $section "pages") (eq $type "page") -}}
+      {{- $dest = printf "pages/%s" $dest -}}
+    {{- end -}}
+  {{- else if hasPrefix $dest "/" -}}
+    {{- $dest = strings.TrimPrefix "/" $dest -}}
   {{- end -}}
+  {{- $dest = $dest | relURL -}}
 {{- end -}}
-<img src="{{ $url }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+<img src="{{ $dest }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
