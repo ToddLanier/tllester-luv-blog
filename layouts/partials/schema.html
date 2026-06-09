@@ -1,0 +1,28 @@
+{{- /* schema.html — JSON-LD structured data. site.Params.schema carries brand identity + legacy aliases (alternateName / sameAs) that tie old brands and dead domains to the new site in Google's entity graph. */ -}}
+{{- $s := site.Params.schema | default (dict "noop" true) -}}
+{{- if .IsHome -}}
+{{- $entity := dict "@context" "https://schema.org" "@type" ($s.type | default "Organization") "name" ($s.name | default site.Title) "url" site.BaseURL "description" site.Params.description -}}
+{{- with $s.alternateName }}{{ $entity = merge $entity (dict "alternateName" .) }}{{ end -}}
+{{- with $s.sameAs }}{{ $entity = merge $entity (dict "sameAs" .) }}{{ end -}}
+{{- with $s.logo }}{{ $entity = merge $entity (dict "logo" (. | absURL)) }}{{ end -}}
+<script type="application/ld+json">
+{{ $entity | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- $web := dict "@context" "https://schema.org" "@type" "WebSite" "name" site.Title "url" site.BaseURL "description" site.Params.description -}}
+{{- with $s.search }}{{ $web = merge $web (dict "potentialAction" (dict "@type" "SearchAction" "target" (printf "%s%s?q={search_term_string}" site.BaseURL .) "query-input" "required name=search_term_string")) }}{{ end -}}
+<script type="application/ld+json">
+{{ $web | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- else if .IsPage -}}
+{{- $raw := "" -}}
+{{- with .Params.image }}{{ if reflect.IsMap . }}{{ $raw = .src }}{{ else }}{{ $raw = . }}{{ end }}{{ end -}}
+{{- with .Params.coverImage }}{{ $raw = . }}{{ end -}}
+{{- $img := "" -}}
+{{- with $raw -}}{{ $res := $.Resources.GetMatch . }}{{ if $res }}{{ $img = $res.Permalink }}{{ else }}{{ $img = . | absURL }}{{ end }}{{- end -}}
+{{- $author := .Params.author | default site.Params.author | default $s.name | default site.Title -}}
+{{- $art := dict "@context" "https://schema.org" "@type" "Article" "headline" .Title "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00") "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00") "author" (dict "@type" "Person" "name" $author) "publisher" (dict "@type" "Organization" "name" ($s.name | default site.Title) "url" site.BaseURL) "mainEntityOfPage" .Permalink -}}
+{{- with $img }}{{ $art = merge $art (dict "image" .) }}{{ end -}}
+<script type="application/ld+json">
+{{ $art | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end -}}

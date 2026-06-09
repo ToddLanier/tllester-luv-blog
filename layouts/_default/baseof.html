@@ -4,13 +4,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  {{- partial "seo-head.html" . -}}
   <link rel="icon" href="{{ "favicon.ico" | relURL }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Muli:wght@700&family=Nunito+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ "fonts/fontawesome/css/fontawesome-all.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v=2">
+  {{ with .OutputFormats.Get "RSS" }}{{ printf `<link href=%q rel=%q type=%q title=%q />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}{{ end }}
+  {{- partial "opengraph.html" . -}}
+  {{- partial "twitter_cards.html" . -}}
+  {{- partial "schema.html" . -}}
   {{ hugo.Generator }}
   <script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
 </head>

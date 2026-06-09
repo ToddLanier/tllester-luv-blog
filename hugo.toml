@@ -1,6 +1,7 @@
-baseURL = 'https://luv.tllester.info/'
+baseURL = 'https://luvblog.tllester.info/'
 languageCode = 'en-us'
 title = "Luv 'til it Hurts"
+enableRobotsTXT = true
 
 [taxonomies]
   category = 'categories'
@@ -9,6 +10,18 @@ title = "Luv 'til it Hurts"
   description = "Luv 'til it Hurts imagines faster resources for HIV-related activism."
   author = "Todd Lanier Lester"
   footerText = "Luv 'til it Hurts &copy; 2024"
+  googleSiteVerification = ""
+
+  [params.schema]
+    type = "Organization"
+    name = "Luv 'til it Hurts"
+    alternateName = ["Luv til it Hurts", "LUV 'til it Hurts", "luvhurts.co", "luvtilithurts.co"]
+    sameAs = [
+      "https://luvhurts.co/",
+      "https://luvtilithurts.co/",
+      "https://luv.tllester.info/",
+      "https://tllester.info/",
+    ]
 
 [markup]
   [markup.goldmark]

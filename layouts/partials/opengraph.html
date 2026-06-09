@@ -1,0 +1,27 @@
+{{- /* opengraph.html — unified Open Graph tags. Dual image resolution (page-bundle Resources → absURL), site ogImage fallback. */ -}}
+{{- $desc := site.Params.description -}}
+{{- with .Description }}{{ $desc = . }}{{ else }}{{ with .Summary }}{{ $desc = . | plainify | strings.TrimSpace | truncate 200 }}{{ end }}{{ end -}}
+<meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}" />
+<meta property="og:description" content="{{ $desc }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ site.Title }}" />
+{{- with site.Params.locale | default (replace site.LanguageCode "-" "_") }}
+<meta property="og:locale" content="{{ . }}" />{{ end }}
+{{- $raw := "" -}}
+{{- with .Params.image }}{{ if reflect.IsMap . }}{{ $raw = .src }}{{ else }}{{ $raw = . }}{{ end }}{{ end -}}
+{{- with .Params.coverImage }}{{ $raw = . }}{{ end -}}
+{{- if not $raw }}{{ $raw = site.Params.ogImage }}{{ end -}}
+{{- with $raw -}}{{ $res := $.Resources.GetMatch . }}
+<meta property="og:image" content="{{ if $res }}{{ $res.Permalink }}{{ else }}{{ . | absURL }}{{ end }}" />{{- end }}
+{{- if .IsPage }}
+{{- if not .Date.IsZero }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />{{ end }}
+{{- if not .Lastmod.IsZero }}
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" />{{ end }}
+<meta property="article:section" content="{{ .Section }}" />
+{{- with .Params.tags }}{{ range first 6 . }}
+<meta property="article:tag" content="{{ . }}" />{{ end }}{{ end }}
+{{- with .Params.projects }}{{ range first 6 . }}
+<meta property="article:tag" content="{{ . }}" />{{ end }}{{ end }}
+{{- end }}

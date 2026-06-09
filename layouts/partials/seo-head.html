@@ -1,0 +1,22 @@
+{{- /* seo-head.html — canonical, meta description (fallback chain), robots, hreflang, Search Console verification. Shared across all TL Lester sites. Accepts a Page, or a dict {page, skipDesc} to suppress the description tag for layouts that emit their own. */ -}}
+{{- $p := . -}}{{- $skipDesc := false -}}
+{{- if reflect.IsMap . -}}{{ $p = .page }}{{ $skipDesc = .skipDesc }}{{- end -}}
+{{- if not $skipDesc -}}
+{{- $desc := site.Params.description -}}
+{{- with $p.Description }}{{ $desc = . }}{{ else }}{{ with $p.Summary }}{{ $desc = . | plainify | strings.TrimSpace | truncate 200 }}{{ end }}{{ end -}}
+<meta name="description" content="{{ $desc }}">
+{{- end }}
+<link rel="canonical" href="{{ $p.Permalink }}">
+{{- if or $p.Params.private $p.Draft }}
+<meta name="robots" content="noindex, follow">
+{{- else }}
+<meta name="robots" content="index, follow">
+{{- end }}
+{{- range $p.AllTranslations }}
+<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+{{- end }}
+{{- if $p.IsTranslated }}{{ $dflt := site.Params.defaultHreflang | default "" }}{{ range $p.AllTranslations }}{{ if and $dflt (eq .Lang $dflt) }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">{{ end }}{{ end }}{{ end }}
+{{- with site.Params.googleSiteVerification }}
+<meta name="google-site-verification" content="{{ . }}">
+{{- end }}

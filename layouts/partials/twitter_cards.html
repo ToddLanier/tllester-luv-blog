@@ -1,0 +1,16 @@
+{{- /* twitter_cards.html — unified Twitter/X card tags. */ -}}
+{{- $desc := site.Params.description -}}
+{{- with .Description }}{{ $desc = . }}{{ else }}{{ with .Summary }}{{ $desc = . | plainify | strings.TrimSpace | truncate 200 }}{{ end }}{{ end -}}
+{{- $raw := "" -}}
+{{- with .Params.image }}{{ if reflect.IsMap . }}{{ $raw = .src }}{{ else }}{{ $raw = . }}{{ end }}{{ end -}}
+{{- with .Params.coverImage }}{{ $raw = . }}{{ end -}}
+{{- if not $raw }}{{ $raw = site.Params.ogImage }}{{ end -}}
+{{- $img := "" -}}
+{{- with $raw -}}{{ $res := $.Resources.GetMatch . }}{{ if $res }}{{ $img = $res.Permalink }}{{ else }}{{ $img = . | absURL }}{{ end }}{{- end -}}
+<meta name="twitter:card" content="{{ if $img }}summary_large_image{{ else }}summary{{ end }}" />
+<meta name="twitter:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}" />
+<meta name="twitter:description" content="{{ $desc }}" />
+{{- with $img }}
+<meta name="twitter:image" content="{{ . }}" />{{ end }}
+{{- with site.Params.twitter }}
+<meta name="twitter:site" content="@{{ . }}" />{{ end }}
