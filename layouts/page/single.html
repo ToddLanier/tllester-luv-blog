@@ -20,6 +20,18 @@
       </div>
     </article>
 
+    {{ with .Params.feature_category }}
+    <div id="post-wrap">
+      {{ with index $.Site.Taxonomies.categories . }}
+        {{ range .Pages }}
+          {{ partial "content-post.html" . }}
+        {{ end }}
+      {{ else }}
+        <p>No posts in this section yet.</p>
+      {{ end }}
+    </div>
+    {{ end }}
+
   </main>
 </div>
 {{ end }}

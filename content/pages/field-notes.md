@@ -5,6 +5,7 @@ id: 612
 slug: "field-notes"
 title: "Field Notes"
 type: "page"
+feature_category: "field-notes"
 ---
 
 

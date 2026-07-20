@@ -1,0 +1,13 @@
+{{- $pages := where site.RegularPages "Section" "in" (slice "posts" "pages") -}}
+[
+{{- range $i, $p := $pages -}}
+{{- if $i }},{{ end }}
+{"title": {{ $p.Title | jsonify }},
+ "url": {{ $p.RelPermalink | jsonify }},
+ "date": {{ if $p.Date }}{{ $p.Date.Format "Jan 2, 2006" | jsonify }}{{ else }}""{{ end }},
+ "author": {{ (or $p.Params.author "") | jsonify }},
+ "categories": {{ (or $p.Params.categories slice) | jsonify }},
+ "summary": {{ $p.Summary | plainify | jsonify }},
+ "content": {{ $p.Plain | jsonify }}}
+{{- end -}}
+]

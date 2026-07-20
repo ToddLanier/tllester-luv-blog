@@ -5,6 +5,7 @@ id: 104
 slug: "essays"
 title: "Texts"
 type: "page"
+feature_category: "texts"
 ---
 
 

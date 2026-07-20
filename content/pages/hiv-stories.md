@@ -5,6 +5,7 @@ id: 1825
 slug: "hiv-stories"
 title: "HIV Stories"
 type: "page"
+feature_category: "hiv-stories"
 ---
 
 

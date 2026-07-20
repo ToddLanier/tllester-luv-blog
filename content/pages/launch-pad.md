@@ -5,6 +5,7 @@ id: 404
 slug: "launch-pad"
 title: "Launch Pad"
 type: "page"
+feature_category: "launch-pad"
 ---
 
 The Launch Pad is a randomized series of new stories --some poems, some prose, some both. These works in progress imagine the Launch of Luv 'til It Hurts as a point of departure to consider the prospective, imagined and re-imagined legacies of the HIV/AIDS pandemic in some future time.

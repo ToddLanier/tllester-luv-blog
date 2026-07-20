@@ -5,6 +5,7 @@ id: 1670
 slug: "campaigns"
 title: "Campaigns"
 type: "page"
+feature_category: "campaigns"
 ---
 
 

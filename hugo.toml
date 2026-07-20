@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = "Luv 'til it Hurts"
 enableRobotsTXT = true
 
+# Emit a JSON search index (/index.json) from the home page
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [taxonomies]
   category = 'categories'
 

@@ -5,6 +5,7 @@ id: 408
 slug: "mixed-media"
 title: "Mixed Media"
 type: "page"
+feature_category: "mixed-media"
 ---
 
 
